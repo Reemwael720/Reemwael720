@@ -1,4 +1,4 @@
-- 👋 # Hi there, I'm   Reem Al,GHAZALI
+- ## 👋 Hi there, I'm   Reem Al,GHAZALI
 
 ## 🎓 About Me
 I'm a **Biomedical Engineering** student with a strong passion for **machine learning**, **medical devices**, and their clinical applications. My current work focuses on leveraging AI and data science to solve real-world problems in healthcare and bioengineering.
