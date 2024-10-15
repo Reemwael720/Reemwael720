@@ -1,7 +1,7 @@
 # 👋Hi,I'm Reem Al,Ghazali  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757" alt="My Image">
+    <img src="https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757" alt="My Image" width="500"> <!-- Adjust width as needed -->
 </div>
 
 
