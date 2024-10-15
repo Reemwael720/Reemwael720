@@ -49,9 +49,9 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 ---
 
 ## 📬 Connect with Me  
-![GitHub](https://github.com/Reemwael720)  
-![LinkedIn]www.linkedin.com/in/reem-al-ghazali-8039612a3 
-📧 **Email**: reem1352003@gmail.com  
+[![GitHub](https://github.com/Reemwael720)  
+[![LinkedIn](www.linkedin.com/in/reem-al-ghazali-8039612a3)
+[![Email]:(reem1352003@gmail.com)  
 
 ---
 
