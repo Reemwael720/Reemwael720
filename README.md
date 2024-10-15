@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-![image](https://github.com/user-attachments/assets/ddcf2ca8-16ec-4e38-ab90-170b6494d9be)
+                                                 ![image](https://github.com/user-attachments/assets/ddcf2ca8-16ec-4e38-ab90-170b6494d9be)
 
 
 
