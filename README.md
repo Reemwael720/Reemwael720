@@ -8,18 +8,12 @@ I’m especially interested in:
 - 🤖 Machine Learning for Healthcare Applications
 - 🩺 Medical Device Innovation and Design
 
-## 💼 Projects & Research
-Here are a few highlights of the work I've been involved in:
-- **Machine Learning for Storytalend Image Datasets**: Working on image datasets for training ML models that solve specific tasks in healthcare.
-- **Medical Device Innovation**: Exploring how devices can improve diagnostics and patient outcomes from both a technical and clinical perspective.
-- **Signal Processing in Healthcare**: Researching and applying signal processing techniques in medical devices to improve real-time analysis.
-
 ## 🔧 Skills & Tools
 - Programming: Python, MATLAB, R
 - Machine Learning: TensorFlow, PyTorch, scikit-learn
 - Data Science: Pandas, NumPy, Data Visualization
 - Medical Imaging: OpenCV, SimpleITK
-- Hardware: Arduino, Raspberry Pi
+- Hardware: Arduino
 
 ## 🌱 What I'm Learning
 - Advanced deep learning techniques for healthcare applications
@@ -28,4 +22,3 @@ Here are a few highlights of the work I've been involved in:
 
 
 
-Feel free to reach out for collaboration or to discuss any exciting ideas related to biomedical engineering, machine learning, or medical devices!
