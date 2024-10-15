@@ -36,18 +36,8 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 
-
-## 🧑‍💻 Projects  
-### **Speech-to-Text & Sentiment Analysis**  
-A real-time speech translation system developed with my team—Zahi, Osama Youssef, Basma, Maya, and Reem—supervised by **Marwan**. The project integrates **natural language processing** and **sentiment detection** for analyzing spoken language.
-
-### **Image Classification with Kaggle Datasets**  
-Using the **animal-image-classification-dataset** from Kaggle, I trained models to distinguish between multiple species. This involved image pre-processing, CNN architectures, and tuning hyperparameters to optimize performance.  
-
-![Dataset Example](https://via.placeholder.com/600x300?text=Animal+Image+Dataset)
 
 ---
 
