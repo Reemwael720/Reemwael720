@@ -24,6 +24,11 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 
  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+ ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+ ![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=for-the-badge&logo=python&logoColor=white) 
+ ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
+
+
 
 - **Libraries & Tools**:  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
