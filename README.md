@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-![Header Image]![image](https://github.com/user-attachments/assets/0c813adb-d4cc-4606-82e7-568ee41a4df9)
+[image](https://github.com/user-attachments/assets/0c813adb-d4cc-4606-82e7-568ee41a4df9)
 
 
 I’m a **Biomedical Sciences** student with a passion for **programming and machine learning**. My interests span both the life sciences and technology, and I enjoy combining them to create innovative solutions. I’ve gained hands-on experience in **C++, Python**, and **machine learning projects**, constantly challenging myself to learn and grow.  
