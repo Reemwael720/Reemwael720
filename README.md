@@ -48,17 +48,10 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 
 ---
 
-## ⚡ Fun Facts  
-- 🧪 I enjoy discovering insights from datasets  
-- 💬 My favorite quote: *“Code is like humor. When you have to explain it, it’s bad.”*  
-- 🎮 In my free time, I enjoy gaming and exploring new tech tools  
-
----
-
 ## 📬 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-profile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
-📧 **Email**: your-email@example.com  
+![GitHub](https://github.com/Reemwael720)  
+![LinkedIn]www.linkedin.com/in/reem-al-ghazali-8039612a3 
+📧 **Email**: reem1352003@gmail.com  
 
 ---
 
