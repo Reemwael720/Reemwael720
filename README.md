@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/1945f758-7981-4fa2-8d3b-698b2dae41ad)
-
-
+<img src="https://github.com/user-attachments/assets/ddcf2ca8-16ec-4e38-ab90-170b6494d9be" alt="About Me Image" width="600"/>
 
 </div>
 
