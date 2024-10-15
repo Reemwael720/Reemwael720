@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![About Me Image](https://github.com/user-attachments/assets/ddcf2ca8-16ec-4e38-ab90-170b6494d9be)
+![image](https://github.com/user-attachments/assets/bb6a163b-3d62-4c44-bf8e-2bc1543f8c45)
+
 
 </div>
 
