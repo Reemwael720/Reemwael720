@@ -18,10 +18,11 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 ---
 
 ## 💻 Skills  
-![Programming Skills Infographic](./path_to_your_skills_image.png)  
+
 
 - **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![image](https://github.com/user-attachments/assets/1e398d2a-aa30-4777-a762-03366f3960df)
+
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
 - **Libraries & Tools**:  
