@@ -4,10 +4,8 @@
     <img src="https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757" alt="My Image" width="500"> <!-- Adjust width as needed -->
 </div>
 
-
-
-
-I’m a **Biomedical Sciences** student with a passion for **programming and machine learning**. My interests span both the life sciences and technology, and I enjoy combining them to create innovative solutions. I’ve gained hands-on experience in **C++, Python**, and **machine learning projects**, constantly challenging myself to learn and grow.  
+-------
+I’m a **Biomedical Engineering** student with a passion for **programming and machine learning**. My interests span both the life sciences and technology, and I enjoy combining them to create innovative solutions. I’ve gained hands-on experience in **C++, Python**, and **machine learning projects**, constantly challenging myself to learn and grow.  
 
 ---
 
