@@ -4,7 +4,8 @@
     <img src="https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757" alt="My Image" width="500"> <!-- Adjust width as needed -->
 </div>
 
--------
+---
+# About Me
 I’m a **Biomedical Engineering** student with a passion for **programming and machine learning**. My interests span both the life sciences and technology, and I enjoy combining them to create innovative solutions. I’ve gained hands-on experience in **C++, Python**, and **machine learning projects**, constantly challenging myself to learn and grow.  
 
 ---
@@ -17,11 +18,7 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 
 ---
 
-## 💻 Skills  
-
-
-- **Languages**:  
-
+## 💻Languages:  
  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -32,6 +29,12 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 
 
 ---
+## 🛠️ Tools  
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- **Integrated Development Environments**: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- **Data Visualization**: ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+- **Jupyter Notebook**: ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+- **Docker**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🧑‍💻 Projects  
 ### **Speech-to-Text & Sentiment Analysis**  
