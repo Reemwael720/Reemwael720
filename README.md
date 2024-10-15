@@ -1,11 +1,7 @@
 # 👋Hi,I'm Reem Al,Ghazali  
 
+![My Image](https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757)
 
-
-<div align="center">
-   ![image](https://github.com/user-attachments/assets/9fc2faad-b8c1-4c20-9d3d-368edcfd1757)
-
-</div>
 
 
 
