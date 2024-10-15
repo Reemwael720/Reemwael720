@@ -25,6 +25,8 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+
 
 
 
@@ -54,10 +56,7 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/mLJPQqYFqnygrSHe/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reem3152003@gmail.com)
 
----
 
-**Thank You for Visiting! 😊**  
-![Goodbye](https://via.placeholder.com/800x200?text=See+You+Soon!)
 
 
 
