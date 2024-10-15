@@ -21,7 +21,7 @@ I’m a **Biomedical Engineering** student with a passion for **programming and 
 
 
 - **Languages**:  
-![image](https://github.com/user-attachments/assets/1e398d2a-aa30-4777-a762-03366f3960df)
+
 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
