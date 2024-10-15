@@ -8,8 +8,7 @@ I’m especially interested in:
 - 🤖 Machine Learning for Healthcare Applications
 - 🩺 Medical Device Innovation and Design
 
-- 📞Connect with me:
-  reem's gmailBasma's LinkdeINReem's Facebookreem's  githubreem's 
+
 
 ## 🔧 Skills & Tools
 - Programming: Python, MATLAB, R
