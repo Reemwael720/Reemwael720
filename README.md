@@ -3,8 +3,8 @@
 
 
 <div align="center">
+![image](https://github.com/user-attachments/assets/c85d69f1-3271-4e32-bec3-183c962846bd)
 
-<img src="https://github.com/user-attachments/assets/ddcf2ca8-16ec-4e38-ab90-170b6494d9be" alt="About Me Image" width="800"/>
 
 </div>
 
