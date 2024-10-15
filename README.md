@@ -4,8 +4,6 @@
 
 <div align="center">
 ![image](https://github.com/user-attachments/assets/c85d69f1-3271-4e32-bec3-183c962846bd)
-
-
 </div>
 
 
